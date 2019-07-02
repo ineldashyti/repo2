@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 3C2F-7F3C
+
+ Directory of C:\Users\User\Desktop\myproject
+
+02/07/2019  09:01    <DIR>          .
+02/07/2019  09:01    <DIR>          ..
+02/07/2019  09:01                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  188,979,949,568 bytes free
